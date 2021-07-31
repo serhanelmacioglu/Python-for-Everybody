@@ -12,4 +12,5 @@ In this Python repository for everyone, you will learn Python programming basics
 <b> What is Python Programming Language? </b> </p> 
 </p>
 
-Python is an object-oriented programming language created by Guido Rossum in 1989. It is ideally designed for rapid prototyping of complex applications. It has interfaces to many OS system calls and libraries and is extensible to C or C++. Many large companies use the Python programming language, including NASA, Google, YouTube, BitTorrent, etc.
+Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. Python features a dynamic type system and automatic memory management and supports multiple programming paradigms, including object-oriented, imperative, functional programming, and procedural styles. It has a large and comprehensive standard library. Many large companies use the Python programming language, including NASA, Google, YouTube, BitTorrent, etc.
+
