@@ -1,4 +1,8 @@
-# Preface
+<p float="left">
+  <img src="/py.gif" width="25" 
+<p>       
+<b> Preface </b> </p> 
+</p>     
 
 Probably the largest hurdle when learning any new programming language is simply unknowing where to get started. This is why I decided to create this section of the repository about Python for Beginners!
 
