@@ -9,9 +9,17 @@ print('Success!')
 
 # Runtime errors 
 # This code will fail when run
-x = 42 
-y = 0 
-print(x / y)
+x = 42
+y = 0
+try:
+    print(x / y)
+except ZeroDivisionError as e:
+    # Optionally, log e somewhere
+    print('Not allowed to divide by zero')
+else:
+    print('Something else went wrong')
+finally:
+    print('This always runs on success or failure')
 
 # Logic errors
 #This code won't run at all
