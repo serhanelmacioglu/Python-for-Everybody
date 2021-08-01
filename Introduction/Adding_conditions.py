@@ -1,5 +1,5 @@
 # Example 1
-price = (input ("How much did you pay? "))
+price = input ('How much did you pay? ')
 price = float(price)
 
 if price >= 1.00:
@@ -9,7 +9,7 @@ else:
 print ('Tax rate is: ' + str(tax))
 
 # You can use this simple way in Python 3.X instead of the above strings
-price = float(input ("How much did you pay? "))
+price = float(input ('How much did you pay? '))
 
 if price >= 1.00:
     tax = .07
