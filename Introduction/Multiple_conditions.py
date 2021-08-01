@@ -38,6 +38,7 @@ print(tax)
 
 province = input("What province do you live in? ")
 tax = 0
+
 if province == 'Alberta' or province == 'Nunavut':
     tax = 0.05
 elif province == 'Ontario':
