@@ -28,7 +28,7 @@ if gpa >= .85 and lowest_grade >= .70:
 else:
     honour_roll = False
     
-# Somewhere later in your code if you need to check if students is 
+# Somewhere later in your code if you need to check if student is 
 # on honour roll, all I need to do is check the boolean variable
 # I set earlier in my code
 if honour_roll:
