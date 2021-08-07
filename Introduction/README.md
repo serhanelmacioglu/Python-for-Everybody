@@ -10,6 +10,8 @@ Even though this section of the repository won’t be covering everything there 
 
 Examples of this section are derived from <a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6">Python for Beginners Videos</a> by Microsoft Developer.
 
+
+
 <p float="left">
   <img src="/py.gif" width="25" 
 <p>       
