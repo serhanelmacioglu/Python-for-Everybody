@@ -37,7 +37,7 @@ print(tax)
 # If multiple conditions cause the same action they can be combined into a single condition
 
 province = input("What province do you live in? ")
-tax = 0
+tax = 0 # I'm assuming initially that the tax is zero
 
 if province == 'Alberta' or province == 'Nunavut':
     tax = 0.05
