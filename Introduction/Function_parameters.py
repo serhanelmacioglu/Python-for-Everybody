@@ -121,4 +121,3 @@ if first_number > second_number:
     error_logger(45, 1, True,                       # (error_code=45, error_severity=1, log_to_db=True,            
     'Second number greater than first',             #  error_message='Second number greater than first',
     'my_math_method')                               #  source_module='my_math_method')
-                                                   
