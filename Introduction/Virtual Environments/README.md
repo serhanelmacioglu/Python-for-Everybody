@@ -7,6 +7,7 @@ Version management becomes a challenge
 
 #### Virtual environments can be used to contain and manage package collections
 Really just a folder behind the scenes with all your packages
+
 <br>
 
 ### Installing virtual environment
