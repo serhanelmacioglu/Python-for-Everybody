@@ -2,7 +2,7 @@
 
 <br>
 
-## Modules
++ ## Modules
 
 #### What's module?
 - A Python file with functions, classes and other components
@@ -45,7 +45,7 @@ display('Not a warning')
 <br>
 <br>
 
-## Packages
++ ## Packages
 
 #### What are packages?
 - Published collections of module
