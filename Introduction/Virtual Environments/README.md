@@ -25,6 +25,8 @@ virtualenv <folder_name>
 
 ```
 
+<br>
+
 ### Using virtual environment
 
 ``` python
@@ -41,6 +43,8 @@ virtualenv <folder_name>
 <folder_name>/bin/activate
 
 ```
+
+<br>
 
 ### Installing packages in a virtual environment
 
