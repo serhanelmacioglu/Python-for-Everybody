@@ -2,15 +2,13 @@
 
 ## Modules
 
-What's module?
-<br>
-
+#### What's module?
 - A Python file with functions, classes and other components
 
-Why use modules?
-<br>
-
+#### Why use modules?
 - Break code down into reusable structures
+
+<br>
 
 ``` python
 # Creating a module
@@ -22,8 +20,12 @@ def display(message, is_warning=False):
     print(message)
     
 ``` 
+<br>
+
 ### Importing a module
 [Modules](https://docs.python.org/3/tutorial/modules.html) allow you to store reusable blocks of code, such as functions, in separate files. They're referenced by using the `import` statement.
+
+<br>
 
 ``` python
 
@@ -43,20 +45,17 @@ display('Not a warning')
 
 ## Packages
 
-What are packages?
-<br>
-
+#### What are packages?
 - Published collections of module
 
-How do I find packages?
-<br>
-
+#### How do I find packages?
 - Python Package Index
 - Internet search   
 
 ### Installing packages
 [Distribution packages](https://packaging.python.org/glossary/#term-distribution-package) are external archive files which contain resources such as classes and functions. Most every application you create will make use of one or more packages. Imports from packages follow the same syntax as modules you've created. The [Python Package index](https://pypi.org/) contains a full list of packages you can install using [pip](https://pip.pypa.io/en/stable/).
 
+<br>
 
 ``` python
 
@@ -69,6 +68,7 @@ pip install -r requirements.txt
 # requirements.txt
 colorama
 ```
+<br>
 
 ## Virtual environments
 
