@@ -1,11 +1,11 @@
 ## Virtual environments
 [Virtual environments](https://docs.python.org/3.7/tutorial/venv.html) allow you to install packages into an isolated folder. This allows you to better manage versions.
 
-#### By default, packages are installed globally
-Version management becomes a challenge
+- #### By default, packages are installed globally
+    Version management becomes a challenge
 
-#### Virtual environments can be used to contain and manage package collections
-Really just a folder behind the scenes with all your packages
+- #### Virtual environments can be used to contain and manage package collections
+    Really just a folder behind the scenes with all your packages
 
 <br>
 
