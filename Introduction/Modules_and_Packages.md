@@ -1,5 +1,7 @@
 # Modules and Packages
 
+<br>
+
 ## Modules
 
 #### What's module?
@@ -41,6 +43,7 @@ from helpers import display
 display('Not a warning')
 ```
 <br>
+<br>
 
 ## Packages
 
@@ -50,6 +53,8 @@ display('Not a warning')
 #### How do I find packages?
 - Python Package Index
 - Internet search   
+
+<br>
 
 ### Installing packages
 [Distribution packages](https://packaging.python.org/glossary/#term-distribution-package) are external archive files which contain resources such as classes and functions. Most every application you create will make use of one or more packages. Imports from packages follow the same syntax as modules you've created. The [Python Package index](https://pypi.org/) contains a full list of packages you can install using [pip](https://pip.pypa.io/en/stable/).
@@ -65,4 +70,3 @@ pip install -r requirements.txt
 # requirements.txt
 colorama
 ```
-<br>
