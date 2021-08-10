@@ -9,7 +9,7 @@
 
 <br>
 
-### Installing a virtual environment
+### Installing virtual environment
 
 ``` python
 
