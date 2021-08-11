@@ -9,19 +9,18 @@
          <td> > </td>
          <td> greater than </td>
       </tr>
-        <tr>
-         <td> == </td>
-         <td> is equal to </td>
-      </tr>
-        <tr>
-         <td> >= </td>
-         <td> greater than or equal to </td>
-      </tr>
-        <tr>
+      <tr>
          <td> <= </td>
          <td> less than or equal to </td>
       </tr>
-        <tr>
+      <tr>
+         <td> >= </td>
+         <td> greater than or equal to </td>
+      <tr>
+         <td> == </td>
+         <td> is equal to </td>
+      </tr>
+      <tr>
          <td> != </td>
          <td> not equal to </td>
       </tr>
