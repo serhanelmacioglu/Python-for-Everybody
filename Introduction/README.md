@@ -23,7 +23,7 @@ Working with Python in Visual Studio Code, using the Microsoft Python extension,
 <br>
 <br>
 <p float="left">
-  <img src="/py.gif" width="20" 
+  <img src="/py.gif" width="25" 
 <p>       
 <b>Somewhere for Python to run</b> </p> 
 </p> 
@@ -36,7 +36,7 @@ Working with Python in Visual Studio Code, using the Microsoft Python extension,
 <br>
 
 <p float="left">
-  <img src="/py.gif" width="20" 
+  <img src="/py.gif" width="25" 
 <p>       
 <b>Something for writing Python</b> </p> 
 </p> 
