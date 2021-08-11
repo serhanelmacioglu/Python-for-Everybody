@@ -1,5 +1,5 @@
-first_name = 'Alice'
-last_name = 'Liddell'
+first_name = 'Susan'
+last_name = 'Ibach'
 # output = 'Hello, ' + first_name + ' ' + last_name
 # output = 'Hello, {} {}'.format(first_name, last_name)
 # output = 'Hello, {0} {1}'.format(first_name, last_name)
