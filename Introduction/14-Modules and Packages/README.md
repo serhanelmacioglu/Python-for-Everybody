@@ -4,11 +4,11 @@
 
 ## Modules
 
-#### What's module?
-- A Python file with functions, classes and other components
+- #### What's module?
+  - A Python file with functions, classes and other components
 
-#### Why use modules?
-- Break code down into reusable structures
+- #### Why use modules?
+  - Break code down into reusable structures
 
 <br>
 
@@ -48,12 +48,12 @@ display('Not a warning')
 
 ## Packages
 
-#### What are packages?
-- Published collections of module
+- #### What are packages?
+  - Published collections of module
 
-#### How do I find packages?
-- Python Package Index
-- Internet search   
+- #### How do I find packages?
+  - Python Package Index
+  - Internet search   
 
 <br>
 
