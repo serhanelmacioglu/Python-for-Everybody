@@ -1,4 +1,4 @@
-sentence = 'The cat is named Alice'
+sentence = 'The cat is named Sammy'
 print(sentence.upper())
 print(sentence.lower())
 print(sentence.capitalize())
