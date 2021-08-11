@@ -28,7 +28,7 @@ Working with Python in Visual Studio Code, using the Microsoft Python extension,
 <b>Somewhere for Python to run</b> </p> 
 </p> 
 
-##### - Interpreter
+##### Interpreter:
 
 + ###### Installation: https://www.python.org/downloads/
 
@@ -42,7 +42,7 @@ Working with Python in Visual Studio Code, using the Microsoft Python extension,
 <b>Something for writing Python</b> </p> 
 </p> 
 
-##### - Editor
+##### Editor:
 
 + ###### Installation: https://code.visualstudio.com/
 
