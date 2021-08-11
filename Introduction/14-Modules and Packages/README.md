@@ -21,8 +21,8 @@ def display(message, is_warning=False):
     if is_warning:
         print('Warning!!')
     print(message)
-    
 ``` 
+
 <br>
 
 ### Importing a module
@@ -70,4 +70,25 @@ pip install -r requirements.txt
 
 # requirements.txt
 colorama
+```
+
+<br>
+
+### Importing packages
+
+``` python
+
+# import package as namespace
+import colorama
+colorama.init() # Call required by colorama
+print(colorama.Fore.RED + 'This is red')
+# import all components from module
+from colorama import *
+init() # Call required by colorama
+print(Fore.BLUE + 'This is blue')
+
+# import specific components from module
+from colorama import init, Fore
+init() # Call required by colorama
+print(Fore.GREEN + 'This is green')
 ```
