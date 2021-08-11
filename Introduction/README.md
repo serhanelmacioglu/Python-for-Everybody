@@ -22,18 +22,16 @@ Working with Python in Visual Studio Code, using the Microsoft Python extension,
 
 <br>
 <br>
-
 <p float="left">
   <img src="/py.gif" width="20" 
 <p>       
 <b>Somewhere for Python to run</b> </p> 
 </p> 
 
-##### Interpreter:
+- Interpreter:
 
-+ ###### Installation: https://www.python.org/downloads/
-
-+ ###### More info: https://www.python.org/doc/
+  - Installation: https://www.python.org/downloads/
+  - More info: https://www.python.org/doc/
 
 <br>
 
@@ -43,10 +41,9 @@ Working with Python in Visual Studio Code, using the Microsoft Python extension,
 <b>Something for writing Python</b> </p> 
 </p> 
 
-##### Editor:
+- Editor:
+  - Installation: https://code.visualstudio.com/
 
-+ ###### Installation: https://code.visualstudio.com/
+  - Extension: https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-+ ###### Extension: https://marketplace.visualstudio.com/items?itemName=ms-python.python
-
-+ ###### More info: https://code.visualstudio.com/docs/languages/python
+  - More info: https://code.visualstudio.com/docs/languages/python
