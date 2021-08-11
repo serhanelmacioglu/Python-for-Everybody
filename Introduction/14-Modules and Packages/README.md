@@ -82,6 +82,7 @@ colorama
 import colorama
 colorama.init() # Call required by colorama
 print(colorama.Fore.RED + 'This is red')
+
 # import all components from module
 from colorama import *
 init() # Call required by colorama
