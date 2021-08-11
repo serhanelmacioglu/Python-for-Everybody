@@ -111,7 +111,7 @@ print('Your initials are: ' + first_name_initial \
 # If you need to change something you only have to change it in one place!
 
 def get_initial(name):
-    initial = name [0:1].upper() # This is where I can capitalize initials with UPPER.
+    initial = name [0:1].upper() # This is where I can capitalize initials with UPPER() command
     return initial
 
 first_name = input('Enter your first name: ')
