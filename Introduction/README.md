@@ -21,6 +21,7 @@ Examples of this section are derived from <a href="https://www.youtube.com/playl
 Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters. It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments. Hence I highly recommend that you start your Python programming language journey with [Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial).
 
 <br>
+<br>
 
 <p float="left">
   <img src="/py.gif" width="20" 
