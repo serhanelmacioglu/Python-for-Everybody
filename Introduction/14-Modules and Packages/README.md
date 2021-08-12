@@ -4,7 +4,7 @@
 
 ## Modules
 
-- #### What's module?
+- #### What's a module?
   - A Python file with functions, classes and other components
 
 - #### Why use modules?
