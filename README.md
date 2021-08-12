@@ -4,7 +4,7 @@
 <b> Python for Everybody </b> </p> 
 </p>     
 
-In this Python repository for everybody, you will learn Python programming basics and advanced concepts. This Python repository contains all the Python basics from fundamental stuff like Python data science. This Python repository helps you to learn Python with Python codes. These Python repositories will help you learn the basics of Python. You rest assured that we will be starting from scratch to learn Python programming language along the way.
+In this Python repository for everybody, you will learn Python programming basics and advanced concepts from scratch. This Python repository contains all the Python basics from fundamental stuff like Python data science. This Python repository helps you to learn Python with Python codes. These Python repositories will help you learn the basics of Python. You rest assured that we will be starting from scratch to learn Python programming language along the way.
 
 <br>
 
