@@ -43,7 +43,7 @@ from helpers import display
 display('Not a warning')
 ```
 <br>
-<br>
+<hr>
 <br>
 
 ## Packages
