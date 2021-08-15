@@ -62,8 +62,9 @@ pip install -r requirements.txt
 colorama
 
 ```
-
 <br>
+<hr>
 
 ###### Please note: If you have any problem when you are trying to generate venv in VS Code, then type that " Set-ExecutionPolicy RemoteSigned " at the PowerShell terminal. Bear in mind that VS Code must be run as administrator before you type that " Set-ExecutionPolicy RemoteSigned " at the PowerShell terminal. 
 ###### [How to start VS Code as administrator?](https://docs.microsoft.com/en-us/visualstudio/ide/user-permissions-and-visual-studio?view=vs-2019#:~:text=On%20the%20Windows%20desktop%2C%20right,and%20then%20select%20OK%20again.) On the Windows desktop, right-click the Visual Studio shortcut and then select Properties. Select the Advanced button, and then select the Run as Administrator check box. Select OK, and then select OK again.
+<hr>
